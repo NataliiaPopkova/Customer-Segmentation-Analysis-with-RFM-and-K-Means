@@ -71,6 +71,6 @@ I chose this dataset to explore it in depth, to learn more on clustering techniq
 ## 💬 Author
 
 *This project is part of my Data Science & ML journey. I'm especially passionate about applied ML for real-world decision-making and customer analytics.*  
-Let’s connect on [LinkedIn](https://www.linkedin.com) or feel free to explore the code and leave feedback!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/nataliia-popkova) or feel free to explore the code and leave feedback!
 
 ---
