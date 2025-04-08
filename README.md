@@ -40,6 +40,9 @@ I chose this dataset to explore it in depth, to learn more on clustering techniq
 - `Occasionals` are low-engagement, low-spending customers with high recency — reactivation potential.
 
 ---
+![newplot](https://github.com/user-attachments/assets/d0b85b21-7334-4006-8e70-6d6271cfdf4d)
+
+
 
 ## 🛠️ Future Work
 
